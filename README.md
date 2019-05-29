@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 # bipio-helper-scripts
 admin scripts for bipio which should not be public
 
